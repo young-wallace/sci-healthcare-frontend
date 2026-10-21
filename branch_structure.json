@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/134-accessible-data-table",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/134-accessible-data-table": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/134-accessible-data-table",
+    "origin"
+  ]
+}
